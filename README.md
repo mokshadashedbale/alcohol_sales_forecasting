@@ -30,10 +30,10 @@ pmdarima
 
 
 ## Usage
-Clone the repository.
-Install the required dependencies mentioned in the requirements.
-Open the Jupyter Notebook Alcohol_Sales_Forecasting.ipynb.
-Follow the instructions provided in the notebook to run the code cells and generate forecasts
+1.Clone the repository.
+2.Install the required dependencies mentioned in the requirements.
+3.Open the Jupyter Notebook Alcohol_Sales_Forecasting.ipynb.
+4. Run the code cells and generate forecasts
 
 ## Conclusion
 
