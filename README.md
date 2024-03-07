@@ -19,7 +19,9 @@ pmdarima
 
 ## Approach
 1.Data Preprocessing: The dataset is loaded and preprocessed to ensure compatibility with SARIMAX modeling requirements. This includes handling missing values, converting date column to datetime format, and ensuring stationarity if needed.
+
 2.Model Building: SARIMAX model is built using the statsmodels library. Appropriate parameters are selected through analysis and tunning.
+
 3.Forecasting: Finally, the model is used to forecast alcohol sales for the next 12 months (February 2019 to January 2020)
 
 
@@ -31,8 +33,11 @@ pmdarima
 
 ## Usage
 1.Clone the repository.
+
 2.Install the required dependencies mentioned in the requirements.
+
 3.Open the Jupyter Notebook Alcohol_Sales_Forecasting.ipynb.
+
 4. Run the code cells and generate forecasts
 
 ## Conclusion
