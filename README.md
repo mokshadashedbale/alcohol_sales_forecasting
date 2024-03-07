@@ -18,7 +18,8 @@ pmdarima
 
 
 ## Approach
-1.Data Preprocessing: The dataset is loaded and preprocessed to ensure compatibility with SARIMAX modeling requirements. This includes handling missing values, converting date column to datetime format, and ensuring stationarity if needed.
+1.Data Preprocessing: The dataset is loaded and preprocessed to ensure compatibility with SARIMAX modeling requirements. This includes handling missing values, converting date column to datetime format, and 
+ensuring stationarity if needed.
 
 2.Model Building: SARIMAX model is built using the statsmodels library. Appropriate parameters are selected through analysis and tunning.
 
