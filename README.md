@@ -40,7 +40,7 @@ ensuring stationarity if needed.
 
 3.Open the Jupyter Notebook Alcohol_Sales_Forecasting.ipynb.
 
-4. Run the code cells and generate forecasts
+4.Run the code cells and generate forecasts
 
 ## Conclusion
 
